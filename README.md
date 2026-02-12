@@ -1,5 +1,5 @@
 # Project URL
-https://github.com/shdfhfhf/Project-1
+https://shdfhfhf.github.io/Project-1/
 
 # Linux Server Performance Monitoring Script
 
