@@ -5,7 +5,6 @@ https://github.com/shdfhfhf/Project-1
 
 This project is a Bash script that analyzes basic server performance statistics.
 
-**Project URL:** [https://github.com/shdfhfhf/Project-1](https://github.com/shdfhfhf/Project-1)
 
 ## Features
 
